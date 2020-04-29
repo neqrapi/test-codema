@@ -662,14 +662,14 @@ body {
 }
 
 .nav-steam {
-    width: 344.68px;
+    width: 390px;
     height: 90.42px;
 }
 
 .outer-steam {
     position: absolute;
     left: 1565px;
-    width: 344.68px;
+    width: 390px;
     height: 90.42px;
     overflow: hidden;
     transform: skew(20deg, 0deg);
@@ -679,14 +679,14 @@ body {
 .inner-steam {
     position: absolute;
     left: -10px;
-    width: 344.68px;
+    width: 390px;
     height: 90.42px;
     overflow: hidden;
 }
 
 .content-steam {
     position: absolute;
-    width: 344.68px;
+    width: 390px;
     height: 90.42px;
     background: transparent linear-gradient(103deg, #0B2246 0%, #173058 100%) no-repeat padding-box;
     opacity: 1;
